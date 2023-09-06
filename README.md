@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Olá, Vitória Tavares Aqui! 👋</h1>
 
-<!--
-**VihProgramer/VihProgramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja-bem vindo ao meu perfil no `GitHub`!<p>Meu nome é Vitória Tavares, tenho 24 anos, Sou bacharel em Enfermagem e estou em transição de carreira para a área de tecnologia. Em Setembro de 2022 participei do Curso de formação em Desenvolvimento Web Fullstack pelo projeto Programadores Cariocas,iniciativa da Prefeitura do Rio de Janeiro com o Senac-Resilia. Atualmente participo do Programa Residência em TICS da Brisa com participação da Softex CIEDS e do Ministério da Ciência, Tecnologia e Inovações (MCTI). 
+Estou muito animada e feliz de poder participar desse projeto que irá me proporcionar muito conhecimento e aprendizado nessa minha transição de carreira e desenvolver ainda mais as minhas Hard Skills e Soft Skills. <br> Aqui você vai encontrar alguns dos meus projetos desenvolvidos durante dessa minha jornada de aprendizado, fique à vontade! 😄</p>
 
-Here are some ideas to get you started:
+## Ferramentas e Tecnologias:
+<div><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" margin="10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" /> </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato:
+<div><br><a href="https://www.instagram.com/vih_stavares/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> </a><a href = "vitoriadasilvatavares@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/vihtavares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   </div>
+
+## Desempenho:
+<div><a href="https://github.com/VihProgramer"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=VihProgramer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihProgramer&layout=compact&langs_count=7&theme=dracula"/></div>
