@@ -4,13 +4,13 @@ Seja-bem vindo ao meu perfil no `GitHub`!<p>Meu nome é Vitória Tavares, tenho 
 Em 2024 iniciei O curso de Data Analytics do Senac com parceria da CNSEG que é uma empresa de seguros, com obejetivos de qualificar jovens programadores na área de análise de dados.
 Estou muito animada e feliz de poder participar desse projeto que irá me proporcionar muito conhecimento e aprendizado nessa minha transição de carreira e desenvolver ainda mais as minhas Hard Skills e Soft Skills. <br> Aqui você vai encontrar alguns dos meus projetos desenvolvidos durante dessa minha jornada de aprendizado, fique à vontade! 😄</p>
 
-## Ferramentas e Tecnologias:
+## :hammer::wrench::computer: Ferramentas e Tecnologias:
 <div><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" margin="10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" /> </div>
 
-## Contato:
+## :telephone_receiver: Contato:
 <div><br><a href="https://www.instagram.com/vih_stavares/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> </a><a href = "vitoriadasilvatavares@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/vihtavares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   </div>
 
-## Desempenho:
+## :chart_with_upwards_trend: Desempenho:
 <div><a href="https://github.com/VihProgramer"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=VihProgramer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihProgramer&layout=compact&langs_count=7&theme=dracula"/></div>
 
 ![Snake animation](https://github.com/VihProgramer/VihProgramer/blob/output/github-contribution-grid-snake.svg)
