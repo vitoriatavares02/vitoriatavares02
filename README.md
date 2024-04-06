@@ -1,6 +1,7 @@
 <h1>Olá, Vitória Tavares Aqui! 👋</h1>
 
-Seja-bem vindo ao meu perfil no `GitHub`!<p>Meu nome é Vitória Tavares, tenho 24 anos, Sou bacharel em Enfermagem e estou em transição de carreira para a área de tecnologia. Em Setembro de 2022 participei do Curso de formação em Desenvolvimento Web Fullstack pelo projeto Programadores Cariocas,iniciativa da Prefeitura do Rio de Janeiro com o Senac-Resilia. Atualmente participo do Programa Residência em TICS da Brisa com participação da Softex CIEDS e do Ministério da Ciência, Tecnologia e Inovações (MCTI). 
+Seja-bem vindo ao meu perfil no `GitHub`!<p>Meu nome é Vitória Tavares, tenho 25 anos, Sou bacharel em Enfermagem e estou em transição de carreira para a área de tecnologia. Em Setembro de 2022 participei do Curso de formação em Desenvolvimento Web Fullstack pelo projeto Programadores Cariocas,iniciativa da Prefeitura do Rio de Janeiro com o Senac-Resilia. Atualmente participo do Programa Residência em TICS da Brisa com participação da Softex CIEDS e do Ministério da Ciência, Tecnologia e Inovações (MCTI). 
+Em 2024 iniciei O curso de Data Analytics do Senac com parceria da CNSEG que é uma empresa de seguros, com obejetivos de qualificar jovens programadores na área de análise de dados.
 Estou muito animada e feliz de poder participar desse projeto que irá me proporcionar muito conhecimento e aprendizado nessa minha transição de carreira e desenvolver ainda mais as minhas Hard Skills e Soft Skills. <br> Aqui você vai encontrar alguns dos meus projetos desenvolvidos durante dessa minha jornada de aprendizado, fique à vontade! 😄</p>
 
 ## Ferramentas e Tecnologias:
